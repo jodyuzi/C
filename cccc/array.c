@@ -2,6 +2,30 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+//
+//main() {
+//	int a[3], i, k = 0;
+//	float avg;
+//	while (1) {
+//		system("cls");
+//		puts("enter 3 numbers");
+//		for (i = 0;i <= 2;i++)
+//			scanf("%d", &a[i]);
+//
+//		for (i = 0;i <= 2;i++)
+//			k = k + a[i];
+//		printf("sum is %d", k);
+//
+//		avg = k / 3.0;
+//		printf("\navg is %f\n", avg);
+//		system("pause");
+//	}
+//}
+
+
+
+
 //main() {
 //	int a[5], i, d = 0;
 //	float k;

@@ -4,6 +4,27 @@
 #include <stdlib.h>
 
 
+
+//main() {
+//	char s[20] = "heheheheehe"; /*{ 'd','e','v','a','n','s','h','\0' };*/ // string is array of characters and it is terminated by null character}
+//	char f[30];
+//	char x[3][10];
+//	int i;
+//	while (1) {
+//		puts("Enter Name");
+//		scanf("%s", f); //fgets(f, 30, stdin);)
+//		puts(s);
+//		printf("Name is %s\n", f);
+//		puts("enter 3 name");
+//		for (i = 0;i <= 2;i++)
+//			scanf("%s", x[i]); //fgets(x[i], 10, stdin);")
+//
+//		for (i = 0;i <= 2;i++)
+//			puts(x[i]);
+//	}
+//}
+
+
 //main() {
 //	char r[3][10];
 //	int i;

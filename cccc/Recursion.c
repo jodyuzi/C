@@ -14,7 +14,7 @@
 //	fun(); // infinite recursion
 //}
 //// hehehheeeee
-
+//
 //main()
 //{
 //	int k,d;

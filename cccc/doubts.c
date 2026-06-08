@@ -3,20 +3,37 @@
 #include <conio.h>
 
 
+// #array
 
-//Testing #hehehehee33333333333
 
-main()
-{
-	int x;
-	scanf("%d", &x);
-	printf("fk %d\n", fun(x));
+
+main() {
+
 }
 
-int fun(int a) {
-	if (a == 0)
-		return a;
-	else
-		printf("%d\n", a);
-		fun(a-1);
-}
+
+
+
+
+// #Recursion
+
+//main() {
+//	int k, x;
+//	while (1) {
+//		puts("enter value recursion:");
+//		scanf("%d", &x);
+//		k = fun(x);
+//		printf("fun value:%d\n", k);
+//	}
+//}
+//
+//
+//int fun(int a) {
+//	int s;
+//	if (a==1)
+//		return(a);
+//	else {
+//		s = a + fun(a - 1);
+//		return s;
+//	}
+//}
