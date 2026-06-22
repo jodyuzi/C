@@ -3,15 +3,48 @@
 #include <conio.h>
 
 
-// #array
 
 
 
-main() {
-
-}
 
 
+
+
+
+// DMA
+
+//main() {
+//	float *p;
+//	p=(float*)malloc(4);
+//	*p = 6.9;
+//}
+//
+
+
+
+
+
+
+// DMA
+
+// #Pointers
+
+//void swap(int*, int*);
+//main() {
+//	int a, b;
+//	puts("enter value of a and b");
+//	scanf("%d %d", &a, &b);
+//	swap(&a, &b);
+//	printf("after swap a=%d b=%d", a, b);
+//}
+//
+//void swap(int *a,int *b) {
+//
+//	int t;
+//	t = *a;
+//	*a = *b;
+//	*b = t;
+//}
 
 
 
