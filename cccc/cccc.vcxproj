@@ -131,6 +131,7 @@
     <ClCompile Include="doubts.c" />
     <ClCompile Include="Enumerators.c" />
     <ClCompile Include="File_handling.c" />
+    <ClCompile Include="fwrite &amp; fread program.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="Pointers.c" />
     <ClCompile Include="Recursion.c" />

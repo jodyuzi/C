@@ -3,14 +3,55 @@
 #include <conio.h>
 #include <stdlib.h>
 
+
+// # fwrite and fread
+//
+//struct book {
+//	int bookid;
+//	char title[30];
+//	float price;
+//}b1,b2;
+//
+//main() {
+//
+//	FILE *fp;
+//	fp=fopen("mybook.dat", "rb");
+//	if (fp == NULL) {
+//		printf("book not found");
+//		exit(1);		
+//	}
+//	while (fread(&b2, sizeof(b2), 1, fp)>0) {
+//		printf("bookid %d\nbook name %s\nbook price %f", b2.bookid, b2.title, b2.price);
+//	}
+//	fclose(fp);
+//}
+
+//main() {
+//	FILE* fp;
+//	fp = fopen("mybook.dat", "wb");
+//	printf("enter bood id");
+//	scanf("%d", &b1.bookid);
+//	/*fflush(stdin);*/
+//	printf("enter book name");
+//	scanf("%s",&b1.title);
+//	printf("book price");
+//	scanf("%f", &b1.price);
+//	fwrite(&b1, sizeof(b1), 1, fp);
+//	fclose(fp);
+//}
+
+
+
 // # puts
-int main() {
-	FILE* fp;
-	char str[100];
-	fp = fopen("f1.txt", "w");
-	gets(str);
-	fputs(str, fp);
-}
+
+//int main() {
+//	FILE* fp;
+//	char str[100];
+//	fp = fopen("f1.txt", "w");
+//	gets(str);
+//	fputs(str, fp);
+//	fclose(fp);
+//}
 
 // # fgets
 
