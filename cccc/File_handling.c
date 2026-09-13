@@ -4,6 +4,27 @@
 #include <stdlib.h>
 
 
+// # fprintf & fscanf
+
+main() {
+	FILE* fp;
+	int a, b, c;
+	fp = fopen("f1.txt", "r");
+	fscanf(fp, "%d%d%d", &a, &b, &c);
+	printf("a=%d b=%d c=%d", a, b, c);
+	fclose(fp);
+}
+
+//main() {
+//	FILE* fp;
+//	int a, b;
+//	fp = fopen("f1.txt", "w");
+//	scanf("%d%d", &a, &b);
+//	fprintf(fp, "a =%d b =%d a+b =%d", a, b, a + b);
+//	fclose(fp);
+//}
+
+
 // # fwrite and fread
 //
 //struct book {
