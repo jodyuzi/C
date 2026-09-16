@@ -69,6 +69,12 @@
     <ClCompile Include="Storage classes.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bit Fields.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Command Line Arguments.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\switchcontrol.c" />
