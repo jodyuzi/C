@@ -6,14 +6,14 @@
 
 // # fprintf & fscanf
 
-main() {
-	FILE* fp;
-	int a, b, c;
-	fp = fopen("f1.txt", "r");
-	fscanf(fp, "%d%d%d", &a, &b, &c);
-	printf("a=%d b=%d c=%d", a, b, c);
-	fclose(fp);
-}
+//main() {
+//	FILE* fp;
+//	int a, b, c;
+//	fp = fopen("f1.txt", "r");
+//	fscanf(fp, "%d%d%d", &a, &b, &c); // %d,%d comma se separate kre ya kisi se bhi to oh data usi type se read krega kuch na likhe to \n new line sammjh ke read krega
+//	printf("a=%d b=%d c=%d", a, b, c);
+//	fclose(fp);
+//}
 
 //main() {
 //	FILE* fp;

@@ -135,6 +135,7 @@
     <ClCompile Include="main.c" />
     <ClCompile Include="Pointers.c" />
     <ClCompile Include="Recursion.c" />
+    <ClCompile Include="Storage classes.c" />
     <ClCompile Include="Strings.c" />
     <ClCompile Include="Structure.c" />
     <ClCompile Include="switch.c" />
