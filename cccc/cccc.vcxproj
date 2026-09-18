@@ -129,11 +129,13 @@
     <ClCompile Include="array2dimensonal.c" />
     <ClCompile Include="Bit Fields.c" />
     <ClCompile Include="Command Line Arguments.c" />
+    <ClCompile Include="const.c" />
     <ClCompile Include="DMA.c" />
     <ClCompile Include="doubts.c" />
     <ClCompile Include="Enumerators.c" />
     <ClCompile Include="File_handling.c" />
     <ClCompile Include="fwrite &amp; fread program.c" />
+    <ClCompile Include="graphics.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="Pointers.c" />
     <ClCompile Include="Recursion.c" />

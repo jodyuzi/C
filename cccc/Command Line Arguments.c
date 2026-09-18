@@ -5,11 +5,11 @@
 
 
 
-main(int avrg, char* fp[]) {
-	int i;
-	puts(fp[1]);
-	for (i = 0;i < avrg;i++) {
-		printf("\n%s", fp[i]);
-	}
-	system("pause");
-}
+//main(int avrg, char* fp[]) {
+//	int i;
+//	puts(fp[1]);
+//	for (i = 0;i < avrg;i++) {
+//		printf("\n%s", fp[i]);
+//	}
+//	system("pause");
+//}

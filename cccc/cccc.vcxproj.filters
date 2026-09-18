@@ -75,6 +75,12 @@
     <ClCompile Include="Command Line Arguments.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graphics.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\switchcontrol.c" />
