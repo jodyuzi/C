@@ -81,6 +81,18 @@
     <ClCompile Include="const.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="star pattern.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wild Pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="circular linked list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Linked List.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\switchcontrol.c" />
