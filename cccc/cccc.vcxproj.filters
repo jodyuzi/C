@@ -93,6 +93,9 @@
     <ClCompile Include="Linked List.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="callback method.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\switchcontrol.c" />

@@ -128,6 +128,7 @@
     <ClCompile Include="array.c" />
     <ClCompile Include="array2dimensonal.c" />
     <ClCompile Include="Bit Fields.c" />
+    <ClCompile Include="callback method.c" />
     <ClCompile Include="circular linked list.c" />
     <ClCompile Include="Command Line Arguments.c" />
     <ClCompile Include="const.c" />
