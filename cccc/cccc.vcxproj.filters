@@ -5,13 +5,8 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    <Filter Include="C++">
+      <UniqueIdentifier>{9ad31659-f857-4a1f-b0cc-60d0af9a5fd9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -19,9 +14,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="takesomethingreturn.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="array2dimensonal.c">
@@ -96,8 +88,31 @@
     <ClCompile Include="callback method.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes &amp; object.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="cout &amp; cin.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Reference Variables.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="inline.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Default Arguements.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Function overloading.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\switchcontrol.c" />
+    <None Include="..\switchcontrol.c">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
