@@ -112,7 +112,10 @@
     <ClCompile Include="Structure.cpp">
       <Filter>C++</Filter>
     </ClCompile>
-    <ClCompile Include="Class.cpp">
+    <ClCompile Include="Class &amp; Static Members.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Static Members.cpp">
       <Filter>C++</Filter>
     </ClCompile>
   </ItemGroup>

@@ -134,7 +134,7 @@
     <ClCompile Include="Bit Fields.c" />
     <ClCompile Include="callback method.c" />
     <ClCompile Include="circular linked list.c" />
-    <ClCompile Include="Class.cpp" />
+    <ClCompile Include="Class &amp; Static Members.cpp" />
     <ClCompile Include="Classes &amp; object.cpp" />
     <ClCompile Include="Command Line Arguments.c" />
     <ClCompile Include="const.c" />
@@ -154,6 +154,7 @@
     <ClCompile Include="Recursion.c" />
     <ClCompile Include="Reference Variables.cpp" />
     <ClCompile Include="star pattern.c" />
+    <ClCompile Include="Static Members.cpp" />
     <ClCompile Include="Storage classes.c" />
     <ClCompile Include="Strings.c" />
     <ClCompile Include="Structure.c" />
