@@ -115,7 +115,10 @@
     <ClCompile Include="Class &amp; Static Members.cpp">
       <Filter>C++</Filter>
     </ClCompile>
-    <ClCompile Include="Static Members.cpp">
+    <ClCompile Include="Constructor.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Operator overloading.cpp">
       <Filter>C++</Filter>
     </ClCompile>
   </ItemGroup>

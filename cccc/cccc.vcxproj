@@ -150,11 +150,12 @@
     <ClCompile Include="inline.cpp" />
     <ClCompile Include="Linked List.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="Operator overloading.cpp" />
     <ClCompile Include="Pointers.c" />
     <ClCompile Include="Recursion.c" />
     <ClCompile Include="Reference Variables.cpp" />
     <ClCompile Include="star pattern.c" />
-    <ClCompile Include="Static Members.cpp" />
+    <ClCompile Include="Constructor.cpp" />
     <ClCompile Include="Storage classes.c" />
     <ClCompile Include="Strings.c" />
     <ClCompile Include="Structure.c" />
