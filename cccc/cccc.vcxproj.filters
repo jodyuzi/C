@@ -121,6 +121,9 @@
     <ClCompile Include="Operator overloading.cpp">
       <Filter>C++</Filter>
     </ClCompile>
+    <ClCompile Include="Friend Function.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\switchcontrol.c">
